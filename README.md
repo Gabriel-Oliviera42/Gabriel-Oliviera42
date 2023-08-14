@@ -1,6 +1,5 @@
 ### Olá, Meu nome é Gabriel Lourenço 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-oliviera42&theme=dracula&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliviera42&theme=dracula&hide_progress=true)
 
 
