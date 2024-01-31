@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente estudando na Universidade Unifenas.
-- 🌱 Estudano HTML, CSS, JS e começando a usar react.
+- 🌱 Estudando HTML, CSS, JS e começando a usar react.
 - 👯 Procurando estagio para aprender mais.
 - 📫 E meu email: gabriellourenco343@gmail.com
 
